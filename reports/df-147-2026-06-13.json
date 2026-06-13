@@ -1,0 +1,21 @@
+{
+  "churn_risk_customers": [],
+  "customer_health_distribution": {
+    "green": 0,
+    "red": 0,
+    "yellow": 0
+  },
+  "detractors_pct": 0,
+  "df": "DF-147",
+  "df_id": "147",
+  "iso_timestamp": "2026-06-13T02:52:38.835442+00:00",
+  "k17_pre_action_verification": {
+    "env_tag": "local",
+    "missing_anchors": [],
+    "ok": true
+  },
+  "nps_avg": 0,
+  "promoters_pct": 0,
+  "source": "mock",
+  "welle": "25"
+}
