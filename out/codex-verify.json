@@ -1,0 +1,5 @@
+{
+  "verdict": "HOLDS",
+  "reason": "Der Test ruft die echten Funktionen mit gemischten Kundenprofilen auf, bei denen nur der adversarial riskante Kunde im Output erscheint und leere Eingaben abweichende sichere Outputs liefern.",
+  "ts": "2026-07-08T15:06:10.525582+00:00"
+}
